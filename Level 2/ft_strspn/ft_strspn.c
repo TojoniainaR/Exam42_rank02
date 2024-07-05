@@ -11,6 +11,8 @@
 /* ************************************************************************** */
 
 #include <unistd.h>
+#include <stdio.h>
+#include <string.h>
 
 size_t	ft_strspn(const char *s, const char *accept)
 {
@@ -33,9 +35,6 @@ size_t	ft_strspn(const char *s, const char *accept)
 	}
 	return (to_ret);
 }
-
-#include <stdio.h>
-#include <string.h>
 
 int	main(int ac, char *av[])
 {

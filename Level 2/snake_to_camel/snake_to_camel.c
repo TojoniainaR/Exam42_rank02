@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/03 14:02:55 by torandri          #+#    #+#             */
-/*   Updated: 2024/07/04 05:36:05 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/05 20:48:28 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 int	main(int ac, char *av[])
 {
 	int	i;
-	
+
 	if (ac == 2)
 	{
 		i = 0;

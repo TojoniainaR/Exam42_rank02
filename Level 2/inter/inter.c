@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/30 15:49:05 by torandri          #+#    #+#             */
-/*   Updated: 2024/06/30 15:49:06 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/05 20:49:55 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,12 +26,14 @@ int	check_double(char *str, char c)
 	return (0);
 }
 
-void inter(char *str1, char *str2)
+void	inter(char *str1, char *str2)
 {
-	int		i = 0;
-	int		j = 0;
+	int		i;
+	int		j;
 	char	seen[128] = {0};
 
+	i = 0;
+	j = 0;
 	while (str1[i] != '\0')
 	{
 		if (check_double(str2, str1[i]) && !check_double(seen, str1[i]))
