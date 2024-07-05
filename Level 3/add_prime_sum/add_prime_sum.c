@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/04 05:52:42 by torandri          #+#    #+#             */
-/*   Updated: 2024/07/04 12:03:46 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/05 11:51:25 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,12 +37,28 @@ void	ft_putnbr(int n)
 	ft_putchar(n % 10 + '0');
 }
 
+int	ft_is_prime(int nbr)
+{
+	int	i;
+
+	i = 2;
+	if (nbr < 2)
+		return (0);
+	while (i <= nbr / 2)
+	{
+		if (nbr % i == 0)
+			return (0);
+		i++;
+	}
+	return (1);
+}
+
 int	main(int ac, char *av[])
 {
 	int	i;
 	int	sum;
 	int	argv;
-	
+
 	if (ac == 2)
 	{
 		i = 2;
@@ -50,7 +66,7 @@ int	main(int ac, char *av[])
 		argv = ft_atoi(av[1]);
 		while (i <= argv)
 		{
-			if (argv % i != 0)
+			if (ft_is_prime(i) == 1)
 				sum += i;
 			i++;
 		}
