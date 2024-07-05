@@ -15,7 +15,7 @@
 int	main(int ac, char *av[])
 {
 	int	i;
-	int j;
+	int	j;
 
 	if (ac == 3)
 	{
