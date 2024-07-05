@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_itoa.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tojoniaina <torandri@student.42antananari  +#+  +:+       +#+        */
+/*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/04 12:40:27 by tojoniaina        #+#    #+#             */
-/*   Updated: 2024/06/04 12:48:44 by tojoniaina       ###   ########.fr       */
+/*   Updated: 2024/07/04 16:00:44 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,7 +44,7 @@ char	*ft_itoa(int n)
 	result = (char *)malloc(sizeof(char) * (size + 1));
 	if (!result)
 		return (NULL);
-    	i = 0;
+    i = 0;
 	if (nb < 0)
 	{
 		result[0] = '-';
