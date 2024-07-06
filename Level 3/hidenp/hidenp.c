@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   hidenp.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: torandri <torandri@student.42antanana      +#+  +:+       +#+        */
+/*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/06 10:07:44 by torandri          #+#    #+#             */
-/*   Updated: 2024/06/06 10:19:33 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/06 21:44:18 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,11 +32,8 @@ int	main(int ac, char *av[])
 			write(1, "1\n", 2);
 			return (1);
 		}
-		else
-		{
-			write(1, "0\n", 2);
-			return (0);
-		}
+		write(1, "0\n", 2);
+		return (0);
 	}
 	else
 		write(1, "\n", 1);

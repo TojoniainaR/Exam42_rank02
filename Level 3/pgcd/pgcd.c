@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   pgcd.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tojoniaina <torandri@student.42antananari  +#+  +:+       +#+        */
+/*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/04 12:27:38 by tojoniaina        #+#    #+#             */
-/*   Updated: 2024/06/04 12:37:33 by tojoniaina       ###   ########.fr       */
+/*   Updated: 2024/07/06 21:42:31 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,12 +18,7 @@ int	main(int ac, char *av[])
 	int	nbr1;
 	int	nbr2;
 
-	if (ac != 3)
-	{
-		printf("\n");
-		return (0);
-	}
-	else
+	if (ac == 3)
 	{
 		nbr1 = atoi(av[1]);
 		nbr2 = atoi(av[2]);
@@ -38,7 +33,7 @@ int	main(int ac, char *av[])
 			}
 			printf("%d", nbr1);
 		}
-		printf("\n");
-		return (0);
 	}
+	printf("\n");
+	return (0);
 }
