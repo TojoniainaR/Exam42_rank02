@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/06 09:39:10 by torandri          #+#    #+#             */
-/*   Updated: 2024/06/28 22:02:39 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/06 23:40:37 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,7 +35,6 @@ int	main(int ac, char *av[])
 			if (av[1][i] == av[2][0])
 				av[1][i] = av[3][0];
 			write (1, &av[1][i++], 1);
-			i++;
 		}
 	}
 	write (1, "\n", 1);
