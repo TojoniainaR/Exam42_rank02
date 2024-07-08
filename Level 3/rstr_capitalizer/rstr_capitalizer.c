@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/06 22:07:00 by torandri          #+#    #+#             */
-/*   Updated: 2024/07/06 23:33:57 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/08 15:58:01 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,6 +44,8 @@ int	main(int ac, char *av[])
 	int	end;
 	int	all_arg;
 
+	if (ac == 1)
+		return (write (1, "\n", 1), 0);
 	all_arg = 1;
 	while (all_arg < ac)
 	{
