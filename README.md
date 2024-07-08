@@ -11,18 +11,18 @@
 
 <table><tr><td>
 
-• [first_word]
-• [fizzbuzz]
-• [ft_putstr]
-• [ft_strcpy]
-• [ft_strlen]
-• [ft_swap]
-• [repeat_alpha]
-• [rev_print]
-• [rot_13]
-• [rotone]
-• [search_and_replace]
-• [ulstr]
+• [first_word](https://github.com/TojoniainaR/Exam42_Rank02)
+• [fizzbuzz](https://github.com/TojoniainaR/Exam42_Rank02)
+• [ft_putstr](https://github.com/TojoniainaR/Exam42_Rank02)
+• [ft_strcpy](https://github.com/TojoniainaR/Exam42_Rank02)
+• [ft_strlen](https://github.com/TojoniainaR/Exam42_Rank02)
+• [ft_swap](https://github.com/TojoniainaR/Exam42_Rank02)
+• [repeat_alpha](https://github.com/TojoniainaR/Exam42_Rank02)
+• [rev_print](https://github.com/TojoniainaR/Exam42_Rank02)
+• [rot_13](https://github.com/TojoniainaR/Exam42_Rank02)
+• [rotone](https://github.com/TojoniainaR/Exam42_Rank02)
+• [search_and_replace](https://github.com/TojoniainaR/Exam42_Rank02)
+• [ulstr](https://github.com/TojoniainaR/Exam42_Rank02)
 </td></tr></table>
 
 ### LEVEL 02
