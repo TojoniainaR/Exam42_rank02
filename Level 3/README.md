@@ -1,7 +1,7 @@
 ## LEVEL 03
 
 ```
-add_prime_sum      []
+add_prime_sum      [OK]
 epur_str           []
 expand_str         []
 ft_atoi_base       []
