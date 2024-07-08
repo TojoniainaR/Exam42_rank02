@@ -2,8 +2,8 @@
 
 ```
 first_word            [OK]
-fizzbuzz              []
-ft_putstr             []
+fizzbuzz              [OK]
+ft_putstr             [OK]
 ft_strcpy             []
 ft_strlen             []
 ft_swap               []
