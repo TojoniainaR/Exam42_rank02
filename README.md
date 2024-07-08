@@ -11,7 +11,7 @@
 
 <table><tr><td>
 
-• [first_word](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [first_word](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%201/first_word/first_word.c#L3)
 • [fizzbuzz](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
 • [ft_putstr](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
 • [ft_strcpy](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
