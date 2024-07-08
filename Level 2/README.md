@@ -2,7 +2,7 @@
 
 ```
 aplha_mirror		[OK]
-camel_to_snake		        []
+camel_to_snake		       []
 do_op				[]
 ft_atoi				[]
 ft_strcmp			[]
