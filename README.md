@@ -11,18 +11,18 @@
 
 <table><tr><td>
 
-• [first_word](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [fizzbuzz](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [ft_putstr](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [ft_strcpy](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [ft_strlen](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [ft_swap](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [repeat_alpha](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [rev_print](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [rot_13](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [rotone](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [search_and_replace](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
-• [ulstr](https://github.com/TojoniainaR/Exam42_Rank02/Level%201)
+• [first_word](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [fizzbuzz](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [ft_putstr](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [ft_strcpy](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [ft_strlen](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [ft_swap](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [repeat_alpha](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [rev_print](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [rot_13](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [rotone](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [search_and_replace](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
+• [ulstr](https://github.com/TojoniainaR/Exam42_Rank02/Level%201/)
 </td></tr></table>
 
 ### LEVEL 02
