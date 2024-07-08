@@ -2,6 +2,7 @@
 
 - At each level of the exam there is a random exercise chosen from these exercise groups.
 - The exam does not look at the norm, so there is **no norminette**.
+- Link for 42_EXAM practice : [42_EXAM](https://github.com/JCluzet/42_EXAM)
 
 ## <ins>Subjects</ins>
 
@@ -87,3 +88,5 @@
 - [sort_int_tab](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_int_tab)
 - [sort_list](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_list)
 </td></tr></table>
+
+<br>
