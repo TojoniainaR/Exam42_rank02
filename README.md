@@ -21,7 +21,7 @@
 - [fizzbuzz](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/fizzbuzz)
 - [ft_putstr](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ft_putstr)
 - [ft_strcpy](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ft_strcpy)
-- [ft_strlen](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ft_strleb)
+- [ft_strlen](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ft_strlen)
 - [ft_swap](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ft_swap)
 - [repeat_alpha](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/repeat_alpha)
 - [rev_print](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/rev_print)
@@ -61,7 +61,7 @@
 
 <table><tr><td>
 
-- [add_prile_sum](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/add_prime_sum)
+- [add_prime_sum](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/add_prime_sum)
 - [epur_str](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/epur_str)
 - [expand_str](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/expand_str)
 - [ft_atoi_base](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/ft_atoi_base)
