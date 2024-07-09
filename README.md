@@ -18,7 +18,7 @@
 
 ### LEVEL 01
 
-<table>
+<table><tr><td>
 
 - [first_word](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%201/first_word)
 - [fizzbuzz](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/fizzbuzz)
@@ -32,11 +32,11 @@
 - [rotone](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/rotone)
 - [search_and_replace](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/search_and_replace)
 - [ulstr](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ulstr)
-</table>
+</td></tr></table>
 
 ### LEVEL 02
 
-<table>
+<table><tr><td>
 
 - [alpha_mirror](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%202/alpha_mirror)
 - [camel_to_snake](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%202/camel_to_snake)
@@ -58,11 +58,11 @@
 - [swap_bits](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%202/swap_bits)
 - [union](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%202/union)
 - [wdmatch](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%202/wdmatch)
-</table>
+</td></tr></table>
 
 ### LEVEL 03
 
-<table>
+<table><tr><td>
 
 - [add_prime_sum](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/add_prime_sum)
 - [epur_str](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/epur_str)
@@ -79,11 +79,11 @@
 - [rstr_capitalizer](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/rstr_capitalizer)
 - [str_capitalizer](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/str_capitalizer)
 - [tab_mult](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/tab_mult)
-</table>
+</td></tr></table>
 
 ### LEVEL 04
 
-<table>
+<table><tr><td>
 
 - [flood_fill](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/flood_fill)
 - [fprime](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/fprime)
@@ -95,4 +95,4 @@
 - [rostring](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/rostring)
 - [sort_int_tab](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_int_tab)
 - [sort_list](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_list)
-</table><br>
+</td></tr></table><br>
