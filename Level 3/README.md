@@ -15,4 +15,5 @@ pgcd               []
 print_hex          [OK]
 rstr_capitalizer   [OK]
 str_capitalizer    [OK]
+tab_mult           [OK]
 ```
