@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/06 22:07:00 by torandri          #+#    #+#             */
-/*   Updated: 2024/07/08 15:58:01 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/09 14:44:13 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,10 +56,10 @@ int	main(int ac, char *av[])
 			write (1, &av[all_arg][i++], 1);
 		while (i <= end)
 		{
-			write (1, &av[all_arg][i++], 1);
 			if ((av[all_arg][i] >= 'a' && av[all_arg][i] <= 'z') \
 			&& (av[all_arg][i + 1] == ' ' || av[all_arg][i + 1] == '\t'))
 				av[all_arg][i] -= 32;
+			write (1, &av[all_arg][i++], 1);
 		}
 		write (1, "\n", 1);
 		all_arg++;
