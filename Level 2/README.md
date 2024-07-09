@@ -18,7 +18,7 @@ max               [OK]
 print_bits        []
 reverse_bits      []
 snake_to_camel    [OK]
-swap_bits         []
+swap_bits         [OK]
 union             []
 wdmatch           []
 ```
