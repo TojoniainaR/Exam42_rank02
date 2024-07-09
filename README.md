@@ -5,7 +5,7 @@
 - Command to execute on a terminal for grademe : ```bash -c "$(curl https://grademe.fr)"```
   
 > [!NOTE] 
-> Link for grademe.fr : [grademe.fr](https://grademe.fr)
+> Link for grademe.fr : [grademe.fr](https://grademe.fr) <br>
 > Link for 42_EXAM practice : [42_EXAM](https://github.com/JCluzet/42_EXAM)
 
 
