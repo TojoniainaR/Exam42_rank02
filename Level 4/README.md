@@ -2,7 +2,7 @@
 
 ```
 flood_fill          []
-fprime              []
+fprime              [OK]
 ft_itoa             []
 ft_list_foreach     []
 ft_list_remove_if   []
