@@ -92,6 +92,4 @@
 - [rostring](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/rostring)
 - [sort_int_tab](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_int_tab)
 - [sort_list](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_list)
-</td></tr></table>
-
-<br>
+</td></tr></table><br>
