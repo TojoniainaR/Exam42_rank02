@@ -13,6 +13,6 @@ lcm                [OK]
 paramsum           [OK]
 pgcd               []
 print_hex          [OK]
-rstr_capitalizer   []
+rstr_capitalizer   [OK]
 str_capitalizer    [OK]
 ```

@@ -12,5 +12,5 @@ rev_print             [OK]
 rot_13                []
 rotone                []
 search_and_replace    [OK]
-ulstr                 []
+ulstr                 [OK]
 ```
