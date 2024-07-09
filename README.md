@@ -3,9 +3,12 @@
 - At each level of the exam there is a random exercise chosen from these exercise groups.
 - The exam does not look at the norm, so there is **no norminette**.
 - Command to execute on a terminal for grademe : ```bash -c "$(curl https://grademe.fr)"```
-- > [!NOTE] 
+  
+```
+  > [!NOTE] 
   > Link for grademe.fr : [grademe.fr](https://grademe.fr)
   > Link for 42_EXAM practice : [42_EXAM](https://github.com/JCluzet/42_EXAM)
+```
 
 ## <ins>Subjects</ins>
 
