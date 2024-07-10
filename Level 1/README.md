@@ -10,7 +10,7 @@ ft_swap               [OK]
 repeat_alpha          [OK]
 rev_print             [OK]
 rot_13                [OK]
-rotone                []
+rotone                [OK]
 search_and_replace    [OK]
 ulstr                 [OK]
 ```
