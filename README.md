@@ -16,7 +16,7 @@
 
 *One exercise from each level will be chosen.*
 
-### LEVEL 01
+### [LEVEL 01](https://github.com/TojoniainaR/Exam42_rank02/tree/9dfa67f7b857459cd85cf12625566e7cb1bd0c21/Level%201)
 
 <table><tr><td>
 
@@ -34,7 +34,7 @@
 - [ulstr](https://github.com/TojoniainaR/Exam42_Rank02/blob/main/Level%201/ulstr)
 </td></tr></table>
 
-### LEVEL 02
+### [LEVEL 02](https://github.com/TojoniainaR/Exam42_rank02/tree/9dfa67f7b857459cd85cf12625566e7cb1bd0c21/Level%202)
 
 <table><tr><td>
 
@@ -60,7 +60,7 @@
 - [wdmatch](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%202/wdmatch)
 </td></tr></table>
 
-### LEVEL 03
+### [LEVEL 03](https://github.com/TojoniainaR/Exam42_rank02/tree/9dfa67f7b857459cd85cf12625566e7cb1bd0c21/Level%203)
 
 <table><tr><td>
 
@@ -81,7 +81,7 @@
 - [tab_mult](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%203/tab_mult)
 </td></tr></table>
 
-### LEVEL 04
+### [LEVEL 04](https://github.com/TojoniainaR/Exam42_rank02/tree/9dfa67f7b857459cd85cf12625566e7cb1bd0c21/Level%204)
 
 <table><tr><td>
 
