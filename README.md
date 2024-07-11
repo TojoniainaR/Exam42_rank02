@@ -16,7 +16,7 @@
 
 *One exercise from each level will be chosen.*
 > [!NOTE]
-> **CG** means ***C**an't be **G**raduated".*
+> **CG** means ***C**an't be **G**raduated".* <br>
 > Because of some reasons, some of exercise can't be graduated.
 
 ### [LEVEL 01](https://github.com/TojoniainaR/Exam42_rank02/tree/9dfa67f7b857459cd85cf12625566e7cb1bd0c21/Level%201)
