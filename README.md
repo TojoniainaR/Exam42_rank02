@@ -7,7 +7,7 @@
 - The exam does not look at the norm, so there is **no norminette**.
 - Command to execute on a terminal for grademe : ```bash -c "$(curl https://grademe.fr)"```
   
-> [!TIPS] 
+> [!TIP] 
 > Link for grademe.fr : [grademe.fr](https://grademe.fr) <br>
 > Link for 42_EXAM practice : [42_EXAM](https://github.com/JCluzet/42_EXAM)
 
