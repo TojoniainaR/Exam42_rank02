@@ -6,7 +6,7 @@
 /*   By: torandri <torandri@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/30 15:49:05 by torandri          #+#    #+#             */
-/*   Updated: 2024/07/05 20:49:55 by torandri         ###   ########.fr       */
+/*   Updated: 2024/07/11 13:29:19 by torandri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,8 +30,11 @@ void	inter(char *str1, char *str2)
 {
 	int		i;
 	int		j;
-	char	seen[128] = {0};
+	char	seen[128];
 
+	i = 0;
+	while (i < 128)
+		seen[i++] = 0;
 	i = 0;
 	j = 0;
 	while (str1[i] != '\0')
