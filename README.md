@@ -92,7 +92,7 @@
 |  [ft_list_remove_if](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/ft_list_remove_if)     |  **[CG]**  |
 |  [ft_split](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/ft_split)                       |  **[  ]**  |
 |  [rev_wstr](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/rev_wstr)                       |  **[OK]**  |
-|  [rostring](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/rostring)                       |  **[  ]**  |
+|  [rostring](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/rostring)                       |  **[OK]**  |
 |  [sort_int_tab](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_int_tab)               |  **[CG]**  |
 |  [sort_list](https://github.com/TojoniainaR/Exam42_rank02/blob/main/Level%204/sort_list)                     |  **[  ]**  |
 <br>
